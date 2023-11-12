@@ -19,7 +19,7 @@ Esta aplicación en React Native con Expo permite a los usuarios explorar y cali
 Asegúrate de tener la API del repositorio `rate-repository-api` ejecutándose en local o en un entorno accesible.
 
 1. Sigue las instrucciones en el [repositorio de la API](https://github.com/fullstack-hy2020/rate-repository-api) para configurar y ejecutar la API.
-2. No olvides revisar la url del fecth y cambiar la ip a la de tu pc que la puedes obtener desde el cmd ejecutando 'ipconfig'
+2. No olvides revisar la url del fetch y cambiar la ip a la de tu pc que la puedes obtener desde el cmd ejecutando 'ipconfig'
 
 ## Uso
 
